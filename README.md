@@ -43,9 +43,10 @@ teams Webpage(s) needs to be pulled up on a 'neutral machine' (SCOREBOX)
 ------------------------
 scoring engine minutia
 ------------------------
--KEEP THE scoring page for each team up at all times
-    -admin-check.php will check logs without checking the teams servers too
-        -due to the codes function, each team must have a web page open from the scoring engine to perform 'scoring check' (if the primary team pages are exited, scoring stops) 
+
+    -check.php(2/3) will check logs without checking the teams servers too
+        -due to the codes function, each team must have a web page (teamXcheckX.php)open from the scoring engine 
+        -RUN SCORING ON A NUETRAL MACHINE do not allow teams access to teamXcheckX.php
 
 -If passwords for untangled are changed, notify white team
 
