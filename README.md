@@ -17,7 +17,7 @@ items to fix
 
 
 
-teams Webpage(s) needs to be pulled up to 
+teams Webpage(s) needs to be pulled up on a 'neutral machine' to 
 
 
 
@@ -25,14 +25,20 @@ teams Webpage(s) needs to be pulled up to
 +team2check.php handles team 2 scoring
 +team3check.php handles team 3 scoring
 
-the duplicate files handles <b>get and post</b> request for scoring machines
+-the duplicate files handles <b>get and post</b> request for scoring machines
 
 +to add more teams check(2/3).php need to be duplicated also
 
-*not built with security in mind sadly
-currently running on 777 permissions in /var/www/html
-owner of most files is www-data, this is most secure (future revisions; secure files) nothing to particuarly attack either 
--ignore index.html file
++display only check(2/3).php for corrisponding teams to show live updates
+
+*not built with security in mind sadly (flooding or spoofing possibly?)
+
++currently running on 777 permissions in /var/www/html, not secure
++owner of most files is www-data, this is most secure 
+    -future revisions; secure files. 
+            -however there is nothing to directly attack either to my knowledge
+
+-ignore index.html file ( then delete it)
 
 ------------------------
 scoring engine minutia
