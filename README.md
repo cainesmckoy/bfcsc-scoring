@@ -8,7 +8,7 @@ items to fix
 *for the love of god make the "get - post" aquisition one page to avoid overhead*
     -*if it can be fixed that way; idk how to seperate "get - post" possibly*
     
- *teams logs could probably be displayed through a for loop or two* - instead of directly hardcoidng each teams aquisiton to display scores     
+ *teams logs could probably be displayed through a for loop or two* - instead of directly hardcodng each teams aquisiton to display scores     
     
     
 
