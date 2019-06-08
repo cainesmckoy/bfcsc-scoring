@@ -1,3 +1,17 @@
+----------------------
+items to fix
+----------------------
+*FTP had bleed over between teams*
+*FTP scoring stoped after couple-several hours*
+
+*for the love of god make the "get - post" aquisition one page to avoid overhead*
+    -*if it can be fixed that way; idk how to seperate "get - post" possibly*
+    
+ * teams logs could probably be displayed through a for loop or two* - instead of directly hardcoidng each teams aquisiton to display scores     
+    
+    
+
+
 # bfcsc-scoring
 
 
@@ -35,5 +49,5 @@ scoring engine minutia
 -Email based on nameserver resolution
 *dont notify teams*
 
--PING is debian client because <3
+-PING is any machines IP
 *dont notify teams*
