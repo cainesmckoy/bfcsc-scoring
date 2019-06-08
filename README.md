@@ -17,7 +17,7 @@ items to fix
 
 
 
-teams Webpage(s) needs to be pulled up on a 'neutral machine' to 
+teams Webpage(s) needs to be pulled up on a 'neutral machine' (SCOREBOX)
 
 
 
