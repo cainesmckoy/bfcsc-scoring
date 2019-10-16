@@ -1,9 +1,7 @@
 ----------------------
 items to fix
 ----------------------
-*FTP had bleed over between teams*
 
-*FTP scoring stoped after couple-several hours*
 
 *for the love of god make the "get - post" aquisition one page to avoid overhead*
     -*if it can be fixed that way; idk how to seperate "get - post" possibly*
